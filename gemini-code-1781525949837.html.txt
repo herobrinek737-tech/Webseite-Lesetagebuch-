@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DIE WELLE // ANALYSE</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <div class="container">
+        <nav>
+            <h2>[SYSTEM.WELLE]</h2>
+            <div>
+                <a href="index.html">HUB</a>
+                <a href="analyse.html" style="color: var(--neon-pink);">ANALYSE</a>
+                <a href="#">HINTERGRUND</a>
+                <a href="#">MEDIENVERGLEICH</a>
+            </div>
+        </nav>
+
+        <header style="margin-bottom: 3rem;">
+            <h1 style="color: var(--neon-cyan); border-bottom: 1px solid var(--neon-pink); padding-bottom: 1rem;">ANATOMIE DES PROTAGONISTEN</h1>
+        </header>
+
+        <section style="display: grid; gap: 2rem;">
+            <div class="cyber-card">
+                <h2>SUBJECT: BEN ROSS</h2>
+                <p><strong>Status:</strong> Geschichtslehrer an der Gordon High School[cite: 84].</p>
+                <p><strong>Psychologisches Profil:</strong> Hochambitioniert, intelligent [cite: 182], neigt jedoch dazu, sich gnadenlos in neue Projekte hineinzusteigern und besessen zu werden[cite: 166, 167].</p>
+                <br>
+                <p>Ross verliert im Laufe des Experiments die professionelle Distanz komplett aus den Augen[cite: 178]. Er gefällt sich heimlich in seiner Rolle als Befehlshaber und merkt nicht, wie sehr er die Individualität der jungen Leute kaputtmacht[cite: 177].</p>
+            </div>
+
+            <div class="cyber-card" style="border-color: var(--neon-pink);">
+                <h2 style="color: var(--neon-pink);">ERZÄHLPERSPEKTIVE_PROTOKOLL</h2>
+                <p>Morton Rhue verwendet einen personalen Er-/Sie-Erzähler mit Innensicht[cite: 188, 195].</p>
+                <ul style="margin-left: 1.5rem; margin-top: 1rem;">
+                    <li>Würde die Geschichte nur aus Lauries kritischer Sicht erzählt werden, wirkte der Roman wie eine simple Heldensaga[cite: 196].</li>
+                    <li>Der Wechsel zu Figuren wie David oder Robert zeigt, wie attraktiv und positiv die Gruppendynamik zu Beginn auf normale Jugendliche wirkt[cite: 198, 199].</li>
+                    <li>Das Fehlen der Ich-Perspektive verleiht dem Buch etwas von einem wissenschaftlichen Protokoll[cite: 205].</li>
+                </ul>
+            </div>
+        </section>
+        
+        <div style="margin-top: 3rem;">
+            <a href="index.html" class="cyber-btn"><< ZURÜCK ZUM HUB</a>
+        </div>
+    </div>
+</body>
+</html>
